@@ -6,4 +6,4 @@ if(number>0):
   elif(number%2==1):
     print('Odd')
 else:
-  print('Invalid')
+  print('invalid')
