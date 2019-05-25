@@ -4,7 +4,7 @@ import re
 value=input()
 symbol=re.compile('[@_!#$%^&*()<>?/\|}{~:]')
 if(symbol.search(value)==None):
-  if(value==('a' or 'e' or 'i' or 'o' or 'u')):
+  if(value=='a'or value=='e'or value=='i'or value=='o'or value=='u'):
     print('Vowel')
   else:
     print('Consonant')
