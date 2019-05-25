@@ -1,6 +1,9 @@
 # guvi
 ''' Power of the Number '''
-num=int(input())
-exp=int(input())
-power=num**exp
+''' Power of the Number '''
+num=input()
+num=num.split()
+no=int(num[0])
+exp=int(num[1])
+power=no**exp
 print(power)
