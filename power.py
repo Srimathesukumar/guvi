@@ -1,6 +1,5 @@
 # guvi
 ''' Power of the Number '''
-''' Power of the Number '''
 num=input()
 num=num.split()
 no=int(num[0])
