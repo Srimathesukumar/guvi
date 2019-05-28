@@ -9,7 +9,7 @@ while(temp > 0):
    temp //= 10
 
 # display the result
-if(nmuber==count):
+if(number==count):
    print("yes")
 else:
    print("no")
