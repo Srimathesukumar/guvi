@@ -7,6 +7,6 @@ for i in range(0,len(arr)):
   if(arr[i]==k):
     c+=1
 if(c==0):
-  print('no')
+  print('No')
 else:
-  print('yes')
+  print('Yes')
