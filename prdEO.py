@@ -3,6 +3,6 @@
 n,m=map(int,input().split())
 p=n*m
 if(n%2==0):
-  print('Even')
+  print('even')
 else:
-  print('Odd')
+  print('odd')
